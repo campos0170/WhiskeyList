@@ -23,3 +23,10 @@ instance/
 
 .DS_Store
 Thumbs.db
+node_modules/
+dist/
+.vscode/
+.env
+*.log
+
+backend/firebase/*.json
